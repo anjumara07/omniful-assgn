@@ -1,0 +1,40 @@
+.card2{
+    margin:20px 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+    width: 320px;
+    text-align: left;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.cardIcon{
+ margin: 10px;
+}
+
+.gray{
+    color:rgb(172, 170, 170);
+}
+
+.jeddah{
+    margin: 10px;
+    border-left: 4px solid rgb(44, 220, 44);
+    padding-left: 10px;
+    font-weight: bold;
+    font-size:18px
+}
+.jeddah>span{
+    font-size:13px;
+    margin: 5px;
+}
+
+.inact{
+    border-left: 4px solid gray;
+}
+
+.inactive{
+    color: gray;
+    background-color:rgb(218, 216, 216);
+    padding: 3px;
+    border-radius:5px;
+}

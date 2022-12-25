@@ -1,0 +1,18 @@
+.flexbox{
+    display: flex;
+    width: 99.8%;
+    justify-content: space-between;
+    border: 1px solid rgb(190, 189, 189);
+    height: 85px
+}
+
+.new{
+    color: white;
+    background-color: rgb(75, 75, 244);
+    width:120px;
+    text-align: center;
+    height:23px;
+    padding: 6px;
+    border-radius:5px;
+    margin: 15px;
+}

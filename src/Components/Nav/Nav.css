@@ -1,0 +1,16 @@
+.nav{
+    height: 56px;
+    width: 99.85%;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    border: 1px solid rgb(190, 189, 189);
+}
+
+.navIcon{
+    margin:15px;
+}
+
+.navbox{
+    margin-left: 90%;
+}

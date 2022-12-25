@@ -1,0 +1,55 @@
+.sideBar{
+    height: 832px;
+    width: 70px;
+    left: 0px;
+    top: 58px;
+    border-radius: 0px;
+    border-left: 1px solid rgb(190, 189, 189);
+    border-right: 1px solid rgb(190, 189, 189);
+}
+
+.sideBar2{
+    height: 832px;
+    width: 260px;
+    left: 72px;
+    top: 58px;
+    border-radius: 0px;
+    border-left: 1px solid rgb(190, 189, 189);
+    border-right: 1px solid rgb(190, 189, 189);
+}
+
+.sideBar>.icon{
+    height: 24px;
+    width: 24px;
+    margin: 20px;
+    display: block;
+}
+
+.vanicon{
+    border: 1px solid rgb(9, 8, 8);
+}
+
+.omniful{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.settings{
+    font-weight: bold;
+    font-size:22px;
+    margin-left: 15px;
+}
+
+.apps{
+    margin-left:15px;
+    cursor:pointer;
+}
+
+.apps>div{
+    margin-right: 10px;
+}
+.class1{
+    border: 1px solid transparent;
+    margin-top: 20px;
+}
